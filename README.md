@@ -12,12 +12,12 @@
 
 ### 项目截图:
 
-<img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
+<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
     
-<img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
+<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
-
+<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
+https://github.com/pengjinfeng/SmallDemo.git
 ### 开发环境：
 微信web开发者工具 v0.9.092300
 
