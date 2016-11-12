@@ -1,0 +1,44 @@
+.container{
+    background-color: white;
+}
+.brands_item{
+    width: 100%;
+    height: 120px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.brands_item image{
+    width: 50%;
+    height: 120px;
+    float: left;
+
+}
+.brands_detaile{
+    float: right;
+    width: 50%;
+    text-align: center;
+    font-size: 12px;
+    display: block;
+}
+.brands_detaile image{
+    width: 100%;
+    height: 46px;
+    margin: 5px auto 0;
+    display: block;
+}
+.name{
+    display: block;
+    margin: 5px 0px;
+     line-height: 20px;
+}
+.detaile{
+    display: block;
+    margin: 5px 0px;
+    line-height: 20px;
+    color: grey;
+}
+.price{
+    display: block;
+    margin: 5px 0px;
+     line-height: 20px;
+     color: orangered;
+}

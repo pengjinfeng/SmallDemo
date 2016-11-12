@@ -1,0 +1,16 @@
+<view class="container">
+    <block wx:for="{{brands}}">
+        <view class = "brands_item">
+        <navigator url = "../detaile/detaile">
+            <image src="{{item.pic}}"></image>
+                <view class = "brands_detaile">
+                    <image src="{{item.logo}}"></image>
+                    <view class = "name">{{item.chinesename}}</view>
+                    <view class = "detaile">{{item.brief}}</view>
+                    <view class = "price">${{item.minprice}}元/件起</view>
+                </view>
+        </navigator>
+            
+        </view>
+    </block>
+</view>

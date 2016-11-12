@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/home/home",
+    "pages/classify/classify",
+    "pages/own/own",
+    "pages/brands/brands",
+    "pages/detaile/detaile"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#e4e4e4",
+    "navigationBarTitleText": "微商城",
+    "navigationBarTextStyle":"black"
+  },
+   "tabBar": {
+    "color": "#6e6d6b",
+    "selectedColor": "#e98e2e",
+    "borderStyle": "white",
+    "backgroundColor": "#e4e4e4",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "iconPath": "resources/in_icon_h_1@2x.png",
+      "selectedIconPath": "resources/in_icon_1@2x.png",
+      "text": "首页"
+    }, {
+      "pagePath": "pages/classify/classify",
+      "iconPath": "resources/in_icon_h_3@2x.png",
+      "selectedIconPath": "resources/in_icon_3@2x.png",
+      "text": "分类"
+    }, {
+      "pagePath": "pages/own/own",
+      "iconPath": "resources/in_icon_h_5@2x.png",
+      "selectedIconPath": "resources/in_icon_5@2x.png",
+      "text": "我的"
+    }]
+  },
+  "debug": true
+}
