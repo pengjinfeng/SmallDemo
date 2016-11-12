@@ -12,12 +12,11 @@
 
 ### 项目截图:
 
-<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
+<img src="https://github.com/pengjinfeng/SmallDemo/tree/master/resources/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
     
-<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
+<img src="https://github.com/pengjinfeng/SmallDemo/tree/master/resources/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/pengjinfeng/SmallDemo/resource/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
-https://github.com/pengjinfeng/SmallDemo.git
+<img src="https://github.com/pengjinfeng/SmallDemo/tree/master/resources/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
 ### 开发环境：
 微信web开发者工具 v0.9.092300
 
